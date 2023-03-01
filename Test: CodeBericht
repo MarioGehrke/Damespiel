@@ -4,6 +4,5 @@ von der beschreibung einer funktion und andere vorgänge.
 ------------ Importe ------------
 --> pygame:
     weil man für die erstellung von spielen bewgung braucht, braucht man die libary.
-    hier sind die nötigen Code-Werkzeuge dafür.
 --> defaultdict:
     für die datenstruktur.
