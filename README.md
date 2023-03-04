@@ -1,3 +1,3 @@
 ## Damespiel
-mein erster aufbau des spiels,
+mein erster Aufbau des Spiels,
 fehlersuche und weiteres
